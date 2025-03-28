@@ -5,7 +5,7 @@ export function RootLayout(){
   return ( 
   <>
     <Header />
-    <Outlet/>
+    <Outlet />
   </>
   )
 }
